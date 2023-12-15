@@ -42,3 +42,4 @@ Activity on 2023-11-30T00:00:00 - Merge pull request #15 from quantum-ml-library
 Activity on 2023-11-30T00:00:00 - docs: Update documentation
 Activity on 2023-12-12T00:00:00 - Improve "UI component" logic
 Activity on 2023-12-14T00:00:00 - build: Update build configuration
+Activity on 2023-12-15T00:00:00 - ci: Configure CI/CD pipeline
