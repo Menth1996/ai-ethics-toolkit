@@ -285,3 +285,4 @@ Activity on 2024-12-16T00:00:00 - Implement "model training" functionality
 Activity on 2024-12-16T00:00:00 - Improve "UI component" logic
 Activity on 2024-12-23T00:00:00 - docs: Update documentation
 Activity on 2024-12-23T00:00:00 - Merge pull request #10 from distributed-rlhf-trainer/main
+Activity on 2025-01-02T00:00:00 - Implement "model training" functionality
