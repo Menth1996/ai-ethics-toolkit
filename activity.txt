@@ -288,3 +288,4 @@ Activity on 2024-12-23T00:00:00 - Merge pull request #10 from distributed-rlhf-t
 Activity on 2025-01-02T00:00:00 - Implement "model training" functionality
 Activity on 2025-01-06T00:00:00 - test: Add unit tests
 Activity on 2025-01-09T00:00:00 - Refactor "configuration" module
+Activity on 2025-01-10T00:00:00 - Revert "build: Update build configuration"
